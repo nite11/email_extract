@@ -1,8 +1,0 @@
-face_land*.task
-__pycache__/
-*.png
-commands.txt
-training_dat*/
-test_images/
-test*.py
-testdata.csv
